@@ -1,4 +1,3 @@
-# flight-delay
 I used Python to analyze the flight delay in the United States. 
 
 # Introduction
