@@ -1,4 +1,4 @@
-I used Python to analyze the flight delay in the United States. 
+I used Python code to analyze the flight delay in the United States. 
 
 # Introduction
 Since the pandemic has eased and the prevention policies have been released, more and more people are traveling. As a Taiwanese, I want to know if the arrival delay depressed our good mood on the trip. I assume we take United Airlines, the only one conducting direct flights between Taiwan and the USA(San Fransico), and make a trip to various cities in the USA. Also, I use the concept of codeshare flights, taking off from San Fransico, and build a linear regression to estimate the flight delay at airports.
