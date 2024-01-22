@@ -8,8 +8,8 @@ Since the pandemic has eased and the prevention policies have been released, mor
 * Data source: Aviation System Performance Metrics, ASPM.
 
 # Breif result
-* On-time or arrive early: about 65%; Arrival delay: about 33% (about 44% of flights delay less than 15 mins)\n
-* Most arrival delays happen during bad weather and national holidays.\n
-* The choice of test size for linear regression is 6:4 considering MSE, R-squared.\n
-* Please see the file(flight delay presentation_2024.01_online) for more visual result. \n
+* On-time or arrive early: about 65%; Arrival delay: about 33% (about 44% of flights delay less than 15 mins)
+* Most arrival delays happen during bad weather and national holidays.
+* The choice of test size for linear regression is 6:4 considering MSE, R-squared.
+* Please see the file(flight delay presentation_2024.01_online) for more visual result. 
 
